@@ -1,0 +1,2 @@
+{for (i = 1, i < strlen(buffer), i++){if (buffer[i] == ",{;"){char buffer1;  fvmfvm:=fjvnfjvn; } }out << buffer << endl;}return 0;
+}

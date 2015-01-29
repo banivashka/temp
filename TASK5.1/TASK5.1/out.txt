@@ -1,0 +1,8 @@
+ {
+    for(i=1, i<strlen(buffer), i++) {
+        if(buffer[i]==",{;") {
+            charbuffer1;
+fvmfvm:=fjvnfjvn;
+}}out<<buffer<<endl;
+}return0;
+}}
